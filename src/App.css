@@ -1,0 +1,17 @@
+.timer {
+    position: relative;
+    left: 110px;
+    top: 50px;
+    background-color: grey;
+    width: 600px;
+}
+
+button {
+    margin: 40px;
+    width: 80px;
+}
+output {
+   background-color: white;
+   position: relative;
+   left: 100px;
+}
